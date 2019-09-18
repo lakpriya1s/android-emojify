@@ -1,5 +1,16 @@
 [
   {
+    "emojiChar": "අ",
+    "emoji": "\u0D85",
+    "description": "sinhala a",
+    "aliases": [
+      "%a"
+    ],
+    "tags": [
+      "a"
+    ]
+  },
+  {
     "emojiChar": "😄",
     "emoji": "\uD83D\uDE04",
     "description": "smiling face with open mouth and smiling eyes",
